@@ -1,6 +1,6 @@
 # Control Systems Simulation Notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/iotctrl/iotctrl-notebook/HEAD?filepath=simulation.ipynb])
+[![Binder](https://mybinder.org/badge_logo.svg)]([https://mybinder.org/v2/gh/iotctrl/iotctrl-notebook/HEAD?filepath=simulation.ipynb)
 
 This repository hosts Jupyter notebooks for simulating control systems part of the IoTControl framework, using the `python-control` library.  
 **Run instantly** in your browser via Binder—no local installation required!
