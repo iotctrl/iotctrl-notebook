@@ -1,0 +1,9 @@
+name: control-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - python-control
+  - numpy
+  - matplotlib
+  - jupyterlab
